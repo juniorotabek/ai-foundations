@@ -1,17 +1,3 @@
-For this repo, I would **not** make it sound like you're already an AI researcher. Make it clearly a serious learning repository that will gradually become evidence of your understanding.
-
-### GitHub repository description
-
-Use this:
-
-> Building AI/ML fundamentals from first principles — math, NumPy, PyTorch, neural networks, transformers, LLMs, fine-tuning, and evaluation.
-
-You can add these GitHub topics:
-
-`machine-learning` · `deep-learning` · `pytorch` · `numpy` · `transformers` · `llm` · `ai` · `learning-in-public`
-
-And I'd make the README like this:
-
 ````markdown
 # AI Foundations
 
